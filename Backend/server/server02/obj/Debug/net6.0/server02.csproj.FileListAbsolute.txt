@@ -1,0 +1,226 @@
+C:\Users\beloh\Downloads\Nová složka\Backend\server\server02\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\beloh\Downloads\Nová složka\Backend\server\server02\bin\Debug\net6.0\appsettings.json
+C:\Users\beloh\Downloads\Nová složka\Backend\server\server02\bin\Debug\net6.0\filter.sql
+C:\Users\beloh\Downloads\Nová složka\Backend\server\server02\bin\Debug\net6.0\server02.exe
+C:\Users\beloh\Downloads\Nová složka\Backend\server\server02\bin\Debug\net6.0\server02.deps.json
+C:\Users\beloh\Downloads\Nová složka\Backend\server\server02\bin\Debug\net6.0\server02.runtimeconfig.json
+C:\Users\beloh\Downloads\Nová složka\Backend\server\server02\bin\Debug\net6.0\server02.dll
+C:\Users\beloh\Downloads\Nová složka\Backend\server\server02\bin\Debug\net6.0\server02.pdb
+C:\Users\beloh\Downloads\Nová složka\Backend\server\server02\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\beloh\Downloads\Nová složka\Backend\server\server02\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\beloh\Downloads\Nová složka\Backend\server\server02\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\beloh\Downloads\Nová složka\Backend\server\server02\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\beloh\Downloads\Nová složka\Backend\server\server02\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\beloh\Downloads\Nová složka\Backend\server\server02\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\beloh\Downloads\Nová složka\Backend\server\server02\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\beloh\Downloads\Nová složka\Backend\server\server02\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\beloh\Downloads\Nová složka\Backend\server\server02\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\beloh\Downloads\Nová složka\Backend\server\server02\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\beloh\Downloads\Nová složka\Backend\server\server02\obj\Debug\net6.0\server02.csproj.AssemblyReference.cache
+C:\Users\beloh\Downloads\Nová složka\Backend\server\server02\obj\Debug\net6.0\server02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beloh\Downloads\Nová složka\Backend\server\server02\obj\Debug\net6.0\server02.AssemblyInfoInputs.cache
+C:\Users\beloh\Downloads\Nová složka\Backend\server\server02\obj\Debug\net6.0\server02.AssemblyInfo.cs
+C:\Users\beloh\Downloads\Nová složka\Backend\server\server02\obj\Debug\net6.0\server02.csproj.CoreCompileInputs.cache
+C:\Users\beloh\Downloads\Nová složka\Backend\server\server02\obj\Debug\net6.0\server02.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\beloh\Downloads\Nová složka\Backend\server\server02\obj\Debug\net6.0\server02.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\beloh\Downloads\Nová složka\Backend\server\server02\obj\Debug\net6.0\staticwebassets\msbuild.server02.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\beloh\Downloads\Nová složka\Backend\server\server02\obj\Debug\net6.0\staticwebassets\msbuild.build.server02.props
+C:\Users\beloh\Downloads\Nová složka\Backend\server\server02\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.server02.props
+C:\Users\beloh\Downloads\Nová složka\Backend\server\server02\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.server02.props
+C:\Users\beloh\Downloads\Nová složka\Backend\server\server02\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\beloh\Downloads\Nová složka\Backend\server\server02\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\beloh\Downloads\Nová složka\Backend\server\server02\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\beloh\Downloads\Nová složka\Backend\server\server02\obj\Debug\net6.0\scopedcss\bundle\server02.styles.css
+C:\Users\beloh\Downloads\Nová složka\Backend\server\server02\obj\Debug\net6.0\server02.csproj.CopyComplete
+C:\Users\beloh\Downloads\Nová složka\Backend\server\server02\obj\Debug\net6.0\server02.dll
+C:\Users\beloh\Downloads\Nová složka\Backend\server\server02\obj\Debug\net6.0\refint\server02.dll
+C:\Users\beloh\Downloads\Nová složka\Backend\server\server02\obj\Debug\net6.0\server02.pdb
+C:\Users\beloh\Downloads\Nová složka\Backend\server\server02\obj\Debug\net6.0\server02.genruntimeconfig.cache
+C:\Users\beloh\Downloads\Nová složka\Backend\server\server02\obj\Debug\net6.0\ref\server02.dll
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\Backend\server\server02\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\Backend\server\server02\bin\Debug\net6.0\appsettings.json
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\Backend\server\server02\bin\Debug\net6.0\filter.sql
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\Backend\server\server02\bin\Debug\net6.0\server02.exe
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\Backend\server\server02\bin\Debug\net6.0\server02.deps.json
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\Backend\server\server02\bin\Debug\net6.0\server02.runtimeconfig.json
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\Backend\server\server02\bin\Debug\net6.0\server02.dll
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\Backend\server\server02\bin\Debug\net6.0\server02.pdb
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\Backend\server\server02\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\Backend\server\server02\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\Backend\server\server02\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\Backend\server\server02\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\Backend\server\server02\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\Backend\server\server02\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\Backend\server\server02\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\Backend\server\server02\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\Backend\server\server02\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\Backend\server\server02\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\Backend\server\server02\obj\Debug\net6.0\server02.csproj.AssemblyReference.cache
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\Backend\server\server02\obj\Debug\net6.0\server02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\Backend\server\server02\obj\Debug\net6.0\server02.AssemblyInfoInputs.cache
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\Backend\server\server02\obj\Debug\net6.0\server02.AssemblyInfo.cs
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\Backend\server\server02\obj\Debug\net6.0\server02.csproj.CoreCompileInputs.cache
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\Backend\server\server02\obj\Debug\net6.0\server02.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\Backend\server\server02\obj\Debug\net6.0\server02.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\Backend\server\server02\obj\Debug\net6.0\staticwebassets\msbuild.server02.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\Backend\server\server02\obj\Debug\net6.0\staticwebassets\msbuild.build.server02.props
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\Backend\server\server02\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.server02.props
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\Backend\server\server02\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.server02.props
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\Backend\server\server02\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\Backend\server\server02\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\Backend\server\server02\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\Backend\server\server02\obj\Debug\net6.0\scopedcss\bundle\server02.styles.css
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\Backend\server\server02\obj\Debug\net6.0\server02.csproj.CopyComplete
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\Backend\server\server02\obj\Debug\net6.0\server02.dll
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\Backend\server\server02\obj\Debug\net6.0\refint\server02.dll
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\Backend\server\server02\obj\Debug\net6.0\server02.pdb
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\Backend\server\server02\obj\Debug\net6.0\server02.genruntimeconfig.cache
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\Backend\server\server02\obj\Debug\net6.0\ref\server02.dll
+C:\Users\beloh\Downloads\WebApplication1\w§oebtfwofhnweoifhneogegnergnv\Web\Backend\server\server02\obj\Debug\net6.0\server02.csproj.AssemblyReference.cache
+C:\Users\beloh\Downloads\WebApplication1\w§oebtfwofhnweoifhneogegnergnv\Web\Backend\server\server02\obj\Debug\net6.0\server02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beloh\Downloads\WebApplication1\w§oebtfwofhnweoifhneogegnergnv\Web\Backend\server\server02\obj\Debug\net6.0\server02.AssemblyInfoInputs.cache
+C:\Users\beloh\Downloads\WebApplication1\w§oebtfwofhnweoifhneogegnergnv\Web\Backend\server\server02\obj\Debug\net6.0\server02.AssemblyInfo.cs
+C:\Users\beloh\Downloads\WebApplication1\w§oebtfwofhnweoifhneogegnergnv\Web\Backend\server\server02\obj\Debug\net6.0\server02.csproj.CoreCompileInputs.cache
+C:\Users\beloh\Downloads\WebApplication1\w§oebtfwofhnweoifhneogegnergnv\Web\Backend\server\server02\obj\Debug\net6.0\server02.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\beloh\Downloads\WebApplication1\w§oebtfwofhnweoifhneogegnergnv\Web\Backend\server\server02\obj\Debug\net6.0\server02.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\beloh\Downloads\WebApplication1\w§oebtfwofhnweoifhneogegnergnv\Web\Backend\server\server02\obj\Debug\net6.0\server02.dll
+C:\Users\beloh\Downloads\WebApplication1\w§oebtfwofhnweoifhneogegnergnv\Web\Backend\server\server02\obj\Debug\net6.0\refint\server02.dll
+C:\Users\beloh\Downloads\WebApplication1\w§oebtfwofhnweoifhneogegnergnv\Web\Backend\server\server02\obj\Debug\net6.0\server02.pdb
+C:\Users\beloh\Downloads\WebApplication1\w§oebtfwofhnweoifhneogegnergnv\Web\Backend\server\server02\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\beloh\Downloads\WebApplication1\w§oebtfwofhnweoifhneogegnergnv\Web\Backend\server\server02\bin\Debug\net6.0\appsettings.json
+C:\Users\beloh\Downloads\WebApplication1\w§oebtfwofhnweoifhneogegnergnv\Web\Backend\server\server02\bin\Debug\net6.0\filter.sql
+C:\Users\beloh\Downloads\WebApplication1\w§oebtfwofhnweoifhneogegnergnv\Web\Backend\server\server02\bin\Debug\net6.0\server02.exe
+C:\Users\beloh\Downloads\WebApplication1\w§oebtfwofhnweoifhneogegnergnv\Web\Backend\server\server02\bin\Debug\net6.0\server02.deps.json
+C:\Users\beloh\Downloads\WebApplication1\w§oebtfwofhnweoifhneogegnergnv\Web\Backend\server\server02\bin\Debug\net6.0\server02.runtimeconfig.json
+C:\Users\beloh\Downloads\WebApplication1\w§oebtfwofhnweoifhneogegnergnv\Web\Backend\server\server02\bin\Debug\net6.0\server02.dll
+C:\Users\beloh\Downloads\WebApplication1\w§oebtfwofhnweoifhneogegnergnv\Web\Backend\server\server02\bin\Debug\net6.0\server02.pdb
+C:\Users\beloh\Downloads\WebApplication1\w§oebtfwofhnweoifhneogegnergnv\Web\Backend\server\server02\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\beloh\Downloads\WebApplication1\w§oebtfwofhnweoifhneogegnergnv\Web\Backend\server\server02\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\beloh\Downloads\WebApplication1\w§oebtfwofhnweoifhneogegnergnv\Web\Backend\server\server02\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\beloh\Downloads\WebApplication1\w§oebtfwofhnweoifhneogegnergnv\Web\Backend\server\server02\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\beloh\Downloads\WebApplication1\w§oebtfwofhnweoifhneogegnergnv\Web\Backend\server\server02\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\beloh\Downloads\WebApplication1\w§oebtfwofhnweoifhneogegnergnv\Web\Backend\server\server02\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\beloh\Downloads\WebApplication1\w§oebtfwofhnweoifhneogegnergnv\Web\Backend\server\server02\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\beloh\Downloads\WebApplication1\w§oebtfwofhnweoifhneogegnergnv\Web\Backend\server\server02\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\beloh\Downloads\WebApplication1\w§oebtfwofhnweoifhneogegnergnv\Web\Backend\server\server02\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\beloh\Downloads\WebApplication1\w§oebtfwofhnweoifhneogegnergnv\Web\Backend\server\server02\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\beloh\Downloads\WebApplication1\w§oebtfwofhnweoifhneogegnergnv\Web\Backend\server\server02\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\beloh\Downloads\WebApplication1\w§oebtfwofhnweoifhneogegnergnv\Web\Backend\server\server02\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\beloh\Downloads\WebApplication1\w§oebtfwofhnweoifhneogegnergnv\Web\Backend\server\server02\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\beloh\Downloads\WebApplication1\w§oebtfwofhnweoifhneogegnergnv\Web\Backend\server\server02\obj\Debug\net6.0\staticwebassets\msbuild.server02.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\beloh\Downloads\WebApplication1\w§oebtfwofhnweoifhneogegnergnv\Web\Backend\server\server02\obj\Debug\net6.0\staticwebassets\msbuild.build.server02.props
+C:\Users\beloh\Downloads\WebApplication1\w§oebtfwofhnweoifhneogegnergnv\Web\Backend\server\server02\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.server02.props
+C:\Users\beloh\Downloads\WebApplication1\w§oebtfwofhnweoifhneogegnergnv\Web\Backend\server\server02\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.server02.props
+C:\Users\beloh\Downloads\WebApplication1\w§oebtfwofhnweoifhneogegnergnv\Web\Backend\server\server02\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\beloh\Downloads\WebApplication1\w§oebtfwofhnweoifhneogegnergnv\Web\Backend\server\server02\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\beloh\Downloads\WebApplication1\w§oebtfwofhnweoifhneogegnergnv\Web\Backend\server\server02\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\beloh\Downloads\WebApplication1\w§oebtfwofhnweoifhneogegnergnv\Web\Backend\server\server02\obj\Debug\net6.0\scopedcss\bundle\server02.styles.css
+C:\Users\beloh\Downloads\WebApplication1\w§oebtfwofhnweoifhneogegnergnv\Web\Backend\server\server02\obj\Debug\net6.0\server02.csproj.CopyComplete
+C:\Users\beloh\Downloads\WebApplication1\w§oebtfwofhnweoifhneogegnergnv\Web\Backend\server\server02\obj\Debug\net6.0\server02.genruntimeconfig.cache
+C:\Users\beloh\Downloads\WebApplication1\w§oebtfwofhnweoifhneogegnergnv\Web\Backend\server\server02\obj\Debug\net6.0\ref\server02.dll
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\bin\Debug\net6.0\appsettings.json
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\bin\Debug\net6.0\filter.sql
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\bin\Debug\net6.0\server02.exe
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\bin\Debug\net6.0\server02.deps.json
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\bin\Debug\net6.0\server02.runtimeconfig.json
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\bin\Debug\net6.0\server02.dll
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\bin\Debug\net6.0\server02.pdb
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\obj\Debug\net6.0\server02.csproj.AssemblyReference.cache
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\obj\Debug\net6.0\server02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\obj\Debug\net6.0\server02.AssemblyInfoInputs.cache
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\obj\Debug\net6.0\server02.AssemblyInfo.cs
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\obj\Debug\net6.0\server02.csproj.CoreCompileInputs.cache
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\obj\Debug\net6.0\server02.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\obj\Debug\net6.0\server02.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\obj\Debug\net6.0\staticwebassets\msbuild.server02.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\obj\Debug\net6.0\staticwebassets\msbuild.build.server02.props
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.server02.props
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.server02.props
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\obj\Debug\net6.0\scopedcss\bundle\server02.styles.css
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\obj\Debug\net6.0\server02.csproj.CopyComplete
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\obj\Debug\net6.0\server02.dll
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\obj\Debug\net6.0\refint\server02.dll
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\obj\Debug\net6.0\server02.pdb
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\obj\Debug\net6.0\server02.genruntimeconfig.cache
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\obj\Debug\net6.0\ref\server02.dll
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\beloh\source\repos\Web\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\beloh\source\repos\C#\Experia\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\beloh\source\repos\C#\Experia\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\bin\Debug\net6.0\appsettings.json
+C:\Users\beloh\source\repos\C#\Experia\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\bin\Debug\net6.0\filter.sql
+C:\Users\beloh\source\repos\C#\Experia\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\bin\Debug\net6.0\server02.exe
+C:\Users\beloh\source\repos\C#\Experia\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\bin\Debug\net6.0\server02.deps.json
+C:\Users\beloh\source\repos\C#\Experia\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\bin\Debug\net6.0\server02.runtimeconfig.json
+C:\Users\beloh\source\repos\C#\Experia\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\bin\Debug\net6.0\server02.dll
+C:\Users\beloh\source\repos\C#\Experia\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\bin\Debug\net6.0\server02.pdb
+C:\Users\beloh\source\repos\C#\Experia\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\beloh\source\repos\C#\Experia\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\beloh\source\repos\C#\Experia\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\beloh\source\repos\C#\Experia\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\beloh\source\repos\C#\Experia\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\beloh\source\repos\C#\Experia\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\beloh\source\repos\C#\Experia\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\beloh\source\repos\C#\Experia\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\beloh\source\repos\C#\Experia\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\beloh\source\repos\C#\Experia\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\beloh\source\repos\C#\Experia\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\beloh\source\repos\C#\Experia\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\beloh\source\repos\C#\Experia\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\beloh\source\repos\C#\Experia\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\beloh\source\repos\C#\Experia\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\beloh\source\repos\C#\Experia\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\beloh\source\repos\C#\Experia\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\beloh\source\repos\C#\Experia\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\beloh\source\repos\C#\Experia\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\beloh\source\repos\C#\Experia\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\beloh\source\repos\C#\Experia\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\beloh\source\repos\C#\Experia\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\beloh\source\repos\C#\Experia\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\beloh\source\repos\C#\Experia\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\beloh\source\repos\C#\Experia\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\obj\Debug\net6.0\server02.csproj.AssemblyReference.cache
+C:\Users\beloh\source\repos\C#\Experia\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\obj\Debug\net6.0\server02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beloh\source\repos\C#\Experia\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\obj\Debug\net6.0\server02.AssemblyInfoInputs.cache
+C:\Users\beloh\source\repos\C#\Experia\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\obj\Debug\net6.0\server02.AssemblyInfo.cs
+C:\Users\beloh\source\repos\C#\Experia\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\obj\Debug\net6.0\server02.csproj.CoreCompileInputs.cache
+C:\Users\beloh\source\repos\C#\Experia\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\obj\Debug\net6.0\server02.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\beloh\source\repos\C#\Experia\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\obj\Debug\net6.0\server02.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\beloh\source\repos\C#\Experia\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\obj\Debug\net6.0\staticwebassets\msbuild.server02.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\beloh\source\repos\C#\Experia\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\obj\Debug\net6.0\staticwebassets\msbuild.build.server02.props
+C:\Users\beloh\source\repos\C#\Experia\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.server02.props
+C:\Users\beloh\source\repos\C#\Experia\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.server02.props
+C:\Users\beloh\source\repos\C#\Experia\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\beloh\source\repos\C#\Experia\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\beloh\source\repos\C#\Experia\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\beloh\source\repos\C#\Experia\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\obj\Debug\net6.0\scopedcss\bundle\server02.styles.css
+C:\Users\beloh\source\repos\C#\Experia\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\obj\Debug\net6.0\server02.csproj.CopyComplete
+C:\Users\beloh\source\repos\C#\Experia\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\obj\Debug\net6.0\server02.dll
+C:\Users\beloh\source\repos\C#\Experia\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\obj\Debug\net6.0\refint\server02.dll
+C:\Users\beloh\source\repos\C#\Experia\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\obj\Debug\net6.0\server02.pdb
+C:\Users\beloh\source\repos\C#\Experia\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\obj\Debug\net6.0\server02.genruntimeconfig.cache
+C:\Users\beloh\source\repos\C#\Experia\WebFilter\WebFilterBackend\GEOOBCHOD-VYHLEDAVACI-PORTAL\Web\Backend\server\server02\obj\Debug\net6.0\ref\server02.dll
